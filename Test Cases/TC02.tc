@@ -12,4 +12,11 @@
       <masked>false</masked>
       <name>username</name>
    </variable>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com/'</defaultValue>
+      <description></description>
+      <id>468ace31-bebe-473f-b2c2-a5fdae92fffa</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
 </TestCaseEntity>
